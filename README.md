@@ -35,9 +35,9 @@ This project aims to build a semi-automatic seed sowing machine, named "The Agri
 
 **Disclaimer:**
 
-This project is provided for educational purposes only. The user assumes all responsibility for the safe and proper operation of the Seed Sowing Bot.
+This project is provided for educational purposes only. The user assumes all responsibility for the safe and proper operation of the Agricultural Bot.
 
-**We hope this README file provides a comprehensive overview of the Seed Sowing Bot project. Feel free to contact us with any questions or suggestions!**
+**We hope this README file provides a comprehensive overview of the Agricultural Bot project. Feel free to contact us with any questions or suggestions!**
 
 This is just a sample README file based on the information you provided. Feel free to customize it further with more details about the specific components, software libraries used, and any future development plans. I hope this helps!
 
