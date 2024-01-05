@@ -1,5 +1,4 @@
-# The-Agricultural-Bot
-## Seed Sowing Bot
+# The Agricultural Bot
 
 **Project Overview:**
 
