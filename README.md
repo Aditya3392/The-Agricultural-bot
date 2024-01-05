@@ -3,7 +3,7 @@
 
 **Project Overview:**
 
-This project aims to build a semi-automatic seed sowing machine, named "Seed Sowing Bot," designed to assist in sowing seeds accurately and efficiently within seedling trays. 
+This project aims to build a semi-automatic seed sowing machine, named "The Agricultural Bot," designed to assist in sowing seeds accurately and efficiently within seedling trays. 
 
 **Key Features:**
 
